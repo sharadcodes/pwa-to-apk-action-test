@@ -1,0 +1,37 @@
+{
+  "packageId": "io.github.sharadcodes.twa",
+  "host": "sharadcodes.github.io",
+  "name": "sharadcodes",
+  "launcherName": "sharadcodes",
+  "display": "fullscreen",
+  "themeColor": "#151618",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#151618",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://sharadcodes.github.io/assets/icons/windows11/SplashScreen.scale-400.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/workspaces/pwa-to-apk-action-test/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://sharadcodes.github.io/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "any",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "appVersion": "1"
+}
